@@ -5,7 +5,7 @@ import Image from "next/image";
 
 const navItems = [
   { label: "Home", href: "#" },
-  { label: "Order", href: "#order-online" },
+  { label: "Order Online", href: "#order-online" },
   { label: "Menu", href: "#menu" },
   { label: "Specials", href: "#specials" },
   { label: "Reviews", href: "#reviews" },
@@ -35,7 +35,7 @@ function Navbar() {
             <a
               key={item.href}
               href={item.href}
-              className="text-sm uppercase tracking-wide text-gray-200 hover:text-yellow-400 transition duration-200"
+              className="text-sm tracking-wide text-gray-200 hover:text-yellow-400 transition duration-200"
             >
               {item.label}
             </a>
@@ -58,7 +58,7 @@ function Navbar() {
             <a
               key={item.href}
               href={item.href}
-              className="text-sm uppercase tracking-wide text-gray-200 hover:text-yellow-400 transition"
+              className="text-sm tracking-wide text-gray-200 hover:text-yellow-400 transition"
               onClick={() => setOpen(false)}
             >
               {item.label}
