@@ -25,7 +25,8 @@ function MenuSection() {
       </h2>
       <div className="w-20 h-1 bg-yellow-400 mx-auto mb-10 rounded-full" />
       <p className="text-lg text-gray-300 mb-14 max-w-2xl mx-auto leading-relaxed">
-        Explore our full menu — galaxy burgers, crispy pieces, family boxes, and space-worthy combos.
+        Explore our full menu — galaxy burgers, crispy pieces, family boxes, and
+        space-worthy combos.
       </p>
 
       {/* Arrow Buttons */}
@@ -61,6 +62,18 @@ function MenuSection() {
             />
           </div>
         ))}
+      </div>
+      {/* Download Button */}
+      <div className="mt-12">
+        <a
+          href="/pdfs/pdfmenu.pdf"
+          download
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-flex items-center gap-2 bg-yellow-500 text-black font-semibold py-3 px-6 rounded-full shadow-md hover:bg-yellow-600 hover:scale-105 transition-all duration-300"
+        >
+          Download Menu (PDF)
+        </a>
       </div>
     </section>
   );
