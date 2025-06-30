@@ -1,0 +1,342 @@
+[
+  {
+    "id": "mercury-burger",
+    "name": "Mercury Burger",
+    "price": 6.49,
+    "image": "/images/menu/Mercury-Burger.jpg",
+    "category": "Burgers"
+  },
+  {
+    "id": "saturn-burger",
+    "name": "Saturn Burger",
+    "price": 13.99,
+    "image": "/images/menu/Saturn Burger.jpg",
+    "category": "Burgers"
+  },
+  {
+    "id": "venus-burger",
+    "name": "Venus Burger",
+    "price": 9.49,
+    "image": "/images/menu/Venus Burger.jpg",
+    "category": "Burgers"
+  },
+  {
+    "id": "pluto-burger",
+    "name": "Pluto Burger",
+    "price": 6.99,
+    "image": "/images/menu/Pluto Burger.jpg",
+    "category": "Burgers"
+  },
+  {
+    "id": "mars-burger",
+    "name": "Mars Burger",
+    "price": 7.49,
+    "image": "/images/menu/Mars.jpg",
+    "category": "Burgers"
+  },
+  {
+    "id": "mars-x2-burger",
+    "name": "Mars x2 Burger",
+    "price": 10.99,
+    "image": "/images/menu/Mars X2.jpg",
+    "category": "Burgers"
+  },
+  {
+    "id": "jupiter-burger",
+    "name": "Jupiter Burger",
+    "price": 17.49,
+    "image": "/images/menu/Jupiter Burger_.jpg",
+    "category": "Burgers"
+  },
+  {
+    "id": "uranus-burger",
+    "name": "Uranus Burger",
+    "price": 14.49,
+    "image": "/images/menu/Uranus Burger.jpg",
+    "category": "Burgers"
+  },
+  {
+    "id": "earth-burger",
+    "name": "Earth Burger",
+    "price": 6.99,
+    "image": "/images/menu/Earth Burger_.jpg",
+    "category": "Burgers"
+  },
+  {
+    "id": "neptune-burger",
+    "name": "Neptune Burger",
+    "price": 11.11,
+    "image": "/images/menu/Neptune Burger.jpg",
+    "category": "Burgers"
+  },
+  {
+    "id": "milkyway-sandwich",
+    "name": "Milkyway Sandwich",
+    "price": 9.49,
+    "image": "/images/menu/Milkyway Sandwich.jpg",
+    "category": "Burgers"
+  },
+  {
+    "id": "sun-bun-kabab",
+    "name": "Sun Bun Kabab",
+    "price": 10.0,
+    "image": "/images/menu/Sun Bun Kabab.jpg",
+    "category": "Burgers"
+  },
+  {
+    "id": "space-fish",
+    "name": "Space Fish",
+    "price": 9.49,
+    "image": "/images/menu/Fish Burger.jpg",
+    "category": "Burgers"
+  },
+  {
+    "id": "rocket-wrap",
+    "name": "Rocket Wrap",
+    "price": 6.49,
+    "image": "/images/menu/Rocket Wrap.jpg",
+    "category": "Wraps"
+  },
+
+  {
+    "id": "fried-chicken",
+    "name": "Fried Chicken",
+    "image": "/images/menu/5PC Reg Chicken.jpg",
+    "category": "Chicken Pieces",
+    "options": [
+      { "label": "5PC", "price": 14.99 },
+      { "label": "10PC", "price": 27.99 },
+      { "label": "15PC", "price": 39.99 },
+      { "label": "20PC", "price": 59.99 }
+    ],
+    "note": "Upgrade to breast each $3.50"
+  },
+
+  {
+    "id": "space-meal",
+    "name": "Space Meal",
+    "image": "/images/menu/Space Meal.jpg",
+    "category": "Space Meals",
+    "options": [
+      { "label": "2PC Meal", "price": 7.49 },
+      { "label": "3PC Meal", "price": 9.49 },
+      { "label": "4PC Meal", "price": 11.99 }
+    ]
+  },
+  {
+    "id": "space-box-2",
+    "name": "Space Box for 2",
+    "price": 14.99,
+    "image": "/images/menu/Space Box 2.jpg",
+    "category": "Space Meals"
+  },
+  {
+    "id": "space-box-family",
+    "name": "Space Box Family",
+    "image": "/images/menu/10pc Family Box.jpg",
+    "category": "Space Meals",
+    "options": [
+      { "label": "10PC", "price": 34.99 },
+      { "label": "15PC", "price": 41.99 },
+      { "label": "20PC", "price": 64.99 }
+    ],
+    "note": "Includes L fries and L salad"
+  },
+  {
+    "id": "boneless-grill-platters",
+    "name": "Leg Thigh Boneless Platter",
+    "image": "/images/menu/Spicy boneless platter_.jpg",
+    "category": "Meat & Rice Platters",
+    "price": 11.99
+  },
+  {
+    "id": "bonein-grill-platters",
+    "name": "Leg Thigh Bone In PLatter",
+    "image": "/images/menu/Spicy bone in platter_.jpg",
+    "category": "Meat & Rice Platters",
+    "price": 11.99
+  },
+  {
+    "id": "grill-chicken",
+    "name": "Grill Chicken (Peri Peri)",
+    "image": "/images/menu/Grilled Chicken.jpg",
+    "category": "Chicken Pieces",
+    "options": [
+      { "label": "3PC", "price": 10.99 },
+      { "label": "5PC", "price": 37.99 },
+      { "label": "10PC", "price": 28.99 },
+      { "label": "15PC", "price": 42.99 },
+      { "label": "20PC", "price": 61.99 }
+    ]
+  },
+  {
+    "id": "nashville-spicy",
+    "name": "Nashville Spicy Chicken",
+    "image": "/images/menu/Nashville Chicken.jpg",
+    "category": "Chicken Pieces",
+    "options": [
+      { "label": "5PC", "price": 19.99 },
+      { "label": "10PC", "price": 37.99 },
+      { "label": "15PC", "price": 54.99 },
+      { "label": "20PC", "price": 74.99 }
+    ]
+  },
+  {
+    "id": "fries",
+    "name": "Fries",
+    "image": "/images/menu/Regular Fries.jpg",
+    "category": "Sides",
+    "options": [
+      { "label": "Small", "price": 3.49 },
+      { "label": "Medium", "price": 5.99 },
+      { "label": "Large", "price": 8.99 }
+    ]
+  },
+  {
+    "id": "potato-wedges",
+    "name": "Potato Wedges",
+    "image": "/images/menu/Potato Wedges.jpg",
+    "category": "Sides",
+    "options": [
+      { "label": "Small", "price": 4.49 },
+      { "label": "Medium", "price": 6.99 },
+      { "label": "Large", "price": 8.49 }
+    ]
+  },
+  {
+    "id": "onion-rings",
+    "name": "Onion Rings",
+    "image": "/images/menu/Onion Rings.jpg",
+    "category": "Sides",
+    "options": [
+      { "label": "Small", "price": 3.49 },
+      { "label": "Medium", "price": 6.49 },
+      { "label": "Large", "price": 7.99 }
+    ]
+  },
+  {
+    "id": "jalapeno-poppers",
+    "name": "Jalapeno Poppers",
+    "image": "/images/menu/Cheese poppers_.jpg",
+    "category": "Sides",
+    "options": [
+      { "label": "6PC", "price": 7.99 },
+      { "label": "12PC", "price": 12.99 }
+    ]
+  },
+  {
+    "id": "chicken-nuggets",
+    "name": "Chicken Nuggets",
+    "image": "/images/menu/Chicken nuggets.jpg",
+    "category": "Sides",
+    "options": [
+      { "label": "6PC", "price": 5.99 },
+      { "label": "12PC", "price": 14.99 }
+    ]
+  },
+  {
+    "id": "star-bites",
+    "name": "Star Bites",
+    "image": "/images/menu/Star Bites_.jpg",
+    "category": "Sides",
+    "options": [
+      { "label": "6PC", "price": 5.99 },
+      { "label": "12PC", "price": 12.99 }
+    ]
+  },
+  {
+    "id": "poutine",
+    "name": "Poutine",
+    "price": 4.99,
+    "image": "/images/menu/Regular poutine.jpg",
+    "category": "Sides"
+  },
+  {
+    "id": "chicken-poutine",
+    "name": "Chicken Poutine",
+    "price": 8.99,
+    "image": "/images/menu/Chicken poutine.jpg",
+    "category": "Sides"
+  },
+  {
+    "id": "potato-salad",
+    "name": "Potato Salad",
+    "image": "/images/menu/Potato Salad.jpg",
+    "category": "Sides",
+    "options": [
+      { "label": "Small", "price": 1.99 },
+      { "label": "Medium", "price": 3.99 },
+      { "label": "Large", "price": 6.99 }
+    ]
+  },
+  {
+    "id": "macroni-salad",
+    "name": "Macroni Salad",
+    "image": "/images/menu/Macroni Salad.jpg",
+    "category": "Sides",
+    "options": [
+      { "label": "Small", "price": 1.99 },
+      { "label": "Medium", "price": 3.99 },
+      { "label": "Large", "price": 6.99 }
+    ]
+  },
+
+  {
+    "id": "gravy",
+    "name": "Gravy",
+    "image": "/images/menu/Gravy.jpg",
+    "category": "Sides",
+    "options": [
+      {
+        "label": "Small",
+        "price": 1.99
+      },
+      {
+        "label": "Medium",
+        "price": 2.49
+      },
+      {
+        "label": "Large",
+        "price": 4.49
+      }
+    ]
+  },
+  {
+    "id": "soft-drink",
+    "name": "Soft Drink",
+    "image": "/images/menu/soft-drink.jpg",
+    "category": "Drinks & Desserts add me later",
+    "options": [
+      { "label": "Regular", "price": 2.5 },
+      { "label": "Large", "price": 3.5 }
+    ]
+  },
+  {
+    "id": "choco-shake",
+    "name": "Chocolate Shake",
+    "price": 6.49,
+    "image": "/images/menu/Choco shake.jpg",
+    "category": "Drinks & Desserts"
+  },
+  {
+    "id": "vanilla-shake",
+    "name": "Vanilla Shake",
+    "price": 6.49,
+    "image": "/images/menu/Vanilla Shake.jpg",
+    "category": "Drinks & Desserts"
+  },
+  {
+    "id": "strawberry-shake",
+    "name": "Strawberry Shake",
+    "price": 6.49,
+    "image": "/images/menu/Strawberry Shake.jpg",
+    "category": "Drinks & Desserts"
+  },
+  {
+    "id": "mango-shake",
+    "name": "Mango Shake",
+    "price": 6.49,
+    "image": "/images/menu/Mango Shake.jpg",
+    "category": "Drinks & Desserts"
+  }
+]
