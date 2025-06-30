@@ -6,7 +6,7 @@ function HeroSection() {
   <header
   className="relative min-h-screen flex flex-col  items-center justify-center px-6 text-center space-y-8  overflow-hidden"
   style={{
-    backgroundImage: "url('/images/menu/Cover-Photo.jpg')",
+    backgroundImage: "url('/images/menu/Cover Photo.jpg')",
     backgroundSize: "cover",
     backgroundPosition: "center",
     backgroundRepeat: "no-repeat",
