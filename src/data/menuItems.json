@@ -159,7 +159,7 @@
   {
     "id": "grill-chicken",
     "name": "Grill Chicken (Peri Peri)",
-    "image": "/images/menu/Grilled Chicken.jpg",
+    "image": "/images/menu/Grilled-Chicken.jpg",
     "category": "Chicken Pieces",
     "options": [
       { "label": "3PC", "price": 10.99 },
@@ -206,7 +206,7 @@
   {
     "id": "onion-rings",
     "name": "Onion Rings",
-    "image": "/images/menu/Onion Rings.jpg",
+    "image": "/images/menu/Onion-Rings.jpg",
     "category": "Sides",
     "options": [
       { "label": "Small", "price": 3.49 },
