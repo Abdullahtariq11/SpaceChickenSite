@@ -31,7 +31,7 @@
     "id": "mars-burger",
     "name": "Mars Burger",
     "price": 7.49,
-    "image": "/images/menu/Mars.jpg",
+    "image": "/images/menu/Mars Burger.jpg",
     "category": "Burgers"
   },
   {
@@ -66,7 +66,7 @@
     "id": "neptune-burger",
     "name": "Neptune Burger",
     "price": 11.11,
-    "image": "/images/menu/Neptune Burger.jpg",
+    "image": "/images/menu/Neptune-Burger.jpg",
     "category": "Burgers"
   },
   {
@@ -87,7 +87,7 @@
     "id": "space-fish",
     "name": "Space Fish",
     "price": 9.49,
-    "image": "/images/menu/Fish Burger.jpg",
+    "image": "/images/menu/Fish-Burger.jpg",
     "category": "Burgers"
   },
   {
@@ -195,7 +195,7 @@
   {
     "id": "potato-wedges",
     "name": "Potato Wedges",
-    "image": "/images/menu/Potato Wedges.jpg",
+    "image": "/images/menu/Potato wedges.jpg",
     "category": "Sides",
     "options": [
       { "label": "Small", "price": 4.49 },
@@ -261,7 +261,7 @@
   {
     "id": "potato-salad",
     "name": "Potato Salad",
-    "image": "/images/menu/Potato Salad.jpg",
+    "image": "/images/menu/potato Salad.jpg",
     "category": "Sides",
     "options": [
       { "label": "Small", "price": 1.99 },
