@@ -124,9 +124,9 @@
     ]
   },
   {
-    "id": "space-box-2",
-    "name": "Space Box for 2",
-    "price": 14.99,
+    "id": "space-box-3",
+    "name": "Space Box for 3",
+    "price": 23.99,
     "image": "/images/menu/Space Box 2.jpg",
     "category": "Space Meals"
   },
